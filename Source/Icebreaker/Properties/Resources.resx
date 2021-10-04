@@ -190,11 +190,11 @@
     <comment>This is the next button text</comment>
   </data>
   <data name="OptInConfirmation" xml:space="preserve">
-    <value>Welcome back! You've been missed. I've restarted your matches. Have fun!</value>
+    <value>Welcome back! Your DechMates pairings will now be restarted. Connect, discover and have fun!</value>
     <comment>The confirmation reply that is sent when the user resumes the matches</comment>
   </data>
   <data name="OptOutConfirmation" xml:space="preserve">
-    <value>All set. I've paused your matches. You can turn them back on whenever you like.</value>
+    <value>Your DechMates connections are now paused. You can restart whenever you are ready. Be sure to let your new connection know, as the system does not automatically notify them that you are paused.</value>
     <comment>The confirmation reply that is sent when the user pauses all matches</comment>
   </data>
   <data name="PausePairingsButtonText" xml:space="preserve">
