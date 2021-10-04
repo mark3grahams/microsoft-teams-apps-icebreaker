@@ -162,19 +162,19 @@
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>Hi there again, I'm the {0} in the {1} team. A bot that pairs you with a new coworker to meet each month. This month your match is {2}.</value>
+    <value>Use one of the buttons below to get started: Chat – messages your connection so you can discuss a date and time. Propose meetup − finds the soonest time you are both available. (Be aware: This could mean setting up a meeting 15 minutes from now if your Outlook calendar shows you are both free.) Pause all matches – temporarily halts your participation in DechMates.</value>
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>If you've got the inclination, set something up. See, meeting people *is* easy!</value>
+    <value>Enjoy this opportunity to get to know other people in the Dechert community and have fun.</value>
     <comment>Second part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
-    <value>You've been matched with {0}.</value>
+    <value>You have been paired with {0}.</value>
     <comment>The text saying who the user has been matched up with</comment>
   </data>
   <data name="MatchUpCardTitleContent" xml:space="preserve">
-    <value>It's time for a match!</value>
+    <value>It’s time for a new DechMates connection!</value>
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
   <data name="MeetupContent" xml:space="preserve">
