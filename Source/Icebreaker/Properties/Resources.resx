@@ -194,7 +194,8 @@
     <comment>The confirmation reply that is sent when the user resumes the matches</comment>
   </data>
   <data name="OptOutConfirmation" xml:space="preserve">
-    <value>Your DechMates connections are now paused. You can restart whenever you are ready. Be sure to let your new connection know, as the system does not automatically notify them that you are paused.</value>
+    <value>Your DechMates connections are now paused.
+    You can restart whenever you are ready. Be sure to let your new connection know, as the system does not automatically notify them that you are paused.</value>
     <comment>The confirmation reply that is sent when the user pauses all matches</comment>
   </data>
   <data name="PausePairingsButtonText" xml:space="preserve">
