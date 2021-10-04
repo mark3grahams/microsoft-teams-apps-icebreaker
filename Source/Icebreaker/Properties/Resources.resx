@@ -162,7 +162,7 @@
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>Use one of the buttons below to get started: \n \n Chat – messages your connection so you can discuss a date and time. \\n \\n Propose meetup − finds the soonest time you are both available. (Be aware: This could mean setting up a meeting 15 minutes from now if your Outlook calendar shows you are both free.) &lt;br /&gt; Pause all matches – temporarily halts your participation in DechMates.</value>
+    <value>Use one of the buttons below to get started: \n \n Chat – messages your connection so you \n\n can discuss a \r date \\r and time. \\n\\n Propose meetup − finds the soonest time you are both available. (Be aware: This could mean setting up a meeting 15 minutes from now if your Outlook calendar shows you are both free.) &lt;br /&gt; &lt;br /&gt; Pause all matches – temporarily halts your participation in DechMates.</value>
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
