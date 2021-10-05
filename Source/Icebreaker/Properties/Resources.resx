@@ -166,7 +166,7 @@
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>Enjoy this opportunity to get to know other people in the Dechert community and have fun.</value>
+    <value>Line 1 &lt;p&gt;Line 2&lt;/p&gt;&lt;p&gt;Line 3&lt;/p&gt;Line 4</value>
     <comment>Second part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
