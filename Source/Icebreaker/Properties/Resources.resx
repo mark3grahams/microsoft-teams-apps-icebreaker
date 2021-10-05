@@ -162,7 +162,7 @@
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>- Line 1\r- Line 2</value>
+    <value>- Line 1\r - Line 2\r - Line 3</value>
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
