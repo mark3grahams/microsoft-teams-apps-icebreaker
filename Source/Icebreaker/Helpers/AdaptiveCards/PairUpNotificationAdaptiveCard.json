@@ -34,7 +34,7 @@
           "items": [
             {
               "type": "TextBlock",
-              "text": "${matchUpCardContentPart1}",
+              "text": "Your expected content\n\nhere",
               "wrap": true,
               "horizontalAlignment": "${textAlignment}"
             }
