@@ -54,7 +54,7 @@ namespace Icebreaker.Helpers.AdaptiveCards
             {
                 matchUpCardTitleContent = Resources.MatchUpCardTitleContent,
                 matchUpCardMatchedText = string.Format(Resources.MatchUpCardMatchedText, recipient.Name),
-                matchUpCardContentPart1 = string.Format(Resources.MatchUpCardContentPart1, botDisplayName, teamName, recipient.Name),
+                matchUpCardContentPart1 = "Slash n.\n double slash n. \n\n double space. unescaped br. <br /> escaped br &lt;br /&gt;",
                 matchUpCardContentPart2 = Resources.MatchUpCardContentPart2,
                 chatWithMatchButtonText = string.Format(Resources.ChatWithMatchButtonText, recipientGivenName),
                 chatWithMessageGreeting = Uri.EscapeDataString(Resources.ChatWithMessageGreeting),
