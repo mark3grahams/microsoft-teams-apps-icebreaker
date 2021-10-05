@@ -162,9 +162,7 @@
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>shift enter
-    doublen \n\n normal enter
-    doubleslashn\\n\\nsoemthing</value>
+    <value>double slash n. \\n double double slash n \\n\\n</value>
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
