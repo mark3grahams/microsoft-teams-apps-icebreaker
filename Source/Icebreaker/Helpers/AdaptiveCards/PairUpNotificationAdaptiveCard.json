@@ -34,7 +34,7 @@
           "items": [
             {
               "type": "TextBlock",
-              "text": "Use one of the buttons below to get started:\n\nChat – messages your connection so you can discuss a date and time.\n\nPropose meetup − finds the soonest time you are both available. (Be aware: This could mean setting up a meeting 15 minutes from now if your Outlook calendar shows you are both free.)\n\nPause all matches – temporarily halts your participation in DechMates.",
+              "text": "Use one of the buttons below to get started:\n\n**Chat** – messages your connection so you can discuss a date and time.\n\n\n\n**Propose meetup** − finds the soonest time you are both available. (Be aware: This could mean setting up a meeting 15 minutes from now if your Outlook calendar shows you are both free.)\n\nPause all matches – temporarily halts your participation in DechMates.",
               "wrap": true,
               "horizontalAlignment": "${textAlignment}"
             }
