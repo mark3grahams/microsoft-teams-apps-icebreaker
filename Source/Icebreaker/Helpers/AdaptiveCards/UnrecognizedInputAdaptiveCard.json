@@ -23,11 +23,11 @@
     },
     {
       "type": "Action.Submit",
-      "title": "${pauseMatchesButtonText}",
+      "title": "Resume matches",
       "data": {
         "msteams": {
           "type": "messageBack",
-          "displayText": "Pause all matches-mrg",
+          "displayText": "Resume matches",
           "text": "optout"
         }
       }
