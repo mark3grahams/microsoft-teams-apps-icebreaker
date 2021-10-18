@@ -66,7 +66,7 @@
       "data": {
         "msteams": {
           "type": "messageBack",
-          "displayText": "Pause all matches",
+          "displayText": "${pauseMatchesButtonText}",
           "text": "optout"
         }
       }
