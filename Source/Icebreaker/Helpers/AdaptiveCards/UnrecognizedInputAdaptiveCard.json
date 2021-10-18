@@ -27,7 +27,7 @@
       "data": {
         "msteams": {
           "type": "messageBack",
-          "displayText": "Pause all matches",
+          "displayText": "Pause all matches-mrg",
           "text": "optout"
         }
       }
