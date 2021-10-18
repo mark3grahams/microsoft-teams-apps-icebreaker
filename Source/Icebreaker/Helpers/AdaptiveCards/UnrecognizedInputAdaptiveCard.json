@@ -28,7 +28,7 @@
         "msteams": {
           "type": "messageBack",
           "displayText": "Resume matches",
-          "text": "optout"
+          "text": "optin"
         }
       }
     }
